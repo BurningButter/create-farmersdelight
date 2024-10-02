@@ -1,0 +1,21 @@
+autoJump:false
+operatorItemsTab:true
+snooperEnabled:false
+darkMojangStudiosBackground:true
+simulationDistance:6
+guiScale:3
+maxFps:260
+advancedItemTooltips:true
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+telemetryOptInExtra:false
+onboardAccessibility:false
+resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","continuity:default","continuity:glass_pane_culling_fix","file/xali\u0027s Enhanced Vanilla v1.11.1.zip","file/Fast Better Grass.zip"]
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_zoomify.key.zoom:key.keyboard.c
+key_zoomify.key.zoom.secondary:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_key.fabricskyboxes.toggle:key.keyboard.unknown

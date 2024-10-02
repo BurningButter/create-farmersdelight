@@ -1,0 +1,13 @@
+name = "Falling Leaves"
+filename = "fallingleaves-1.15.4+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WhbRG4iK/versions/KpvXCE2X/fallingleaves-1.15.4%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "60bdf742d75a7836809087fed4e92da23dd24a09a2f222e5d2807a0fe6f1dfeff9c42c1a3cb84d20d93b3c8045b349f805d3b7b4eee4278dfe5bfe3b9bd2ebc1"
+
+[update]
+[update.modrinth]
+mod-id = "WhbRG4iK"
+version = "KpvXCE2X"

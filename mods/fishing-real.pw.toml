@@ -1,0 +1,13 @@
+name = "Fishing Real"
+filename = "Fishingreal-1.20.1-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MIdaKqt7/versions/rYWNVxYQ/Fishingreal-1.20.1-1.7.1.jar"
+hash-format = "sha512"
+hash = "e1d0161382b7ab7dd1104c8d913ed6d7021a67e2e27f2bd58e2537e96ae882da54382d8f62cda82c38e850cd018d77b98423b97ecadb9d2346870a251c27a1ca"
+
+[update]
+[update.modrinth]
+mod-id = "MIdaKqt7"
+version = "rYWNVxYQ"

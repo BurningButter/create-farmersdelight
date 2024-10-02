@@ -1,0 +1,13 @@
+name = "YetAnotherConfigLib"
+filename = "yet-another-config-lib-fabric-3.2.2+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/DretS191/yet-another-config-lib-fabric-3.2.2%2B1.20.jar"
+hash-format = "sha512"
+hash = "dcfedeb671d5afb1b1816f7c42708544a211aa8bc71e0ec33e2e1157fc12f31a13181255ee2551257aba599c102951f74113cb931e440c87386b435753ca021d"
+
+[update]
+[update.modrinth]
+mod-id = "1eAoo2KR"
+version = "DretS191"

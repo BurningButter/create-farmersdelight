@@ -1,0 +1,13 @@
+name = "Overweight Farming"
+filename = "overweightfarming-1.20.1-2.0.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bCxmmxKN/versions/RBuA8OZr/overweightfarming-1.20.1-2.0.3-fabric.jar"
+hash-format = "sha512"
+hash = "53fb5a01030e83114dbaaa958ae3ee9492528fe43515fcd605d4ce05141887da68dfd2518276bdd15c6ff01de28a39228edb98a39b529bff3cac06226ca43312"
+
+[update]
+[update.modrinth]
+mod-id = "bCxmmxKN"
+version = "RBuA8OZr"

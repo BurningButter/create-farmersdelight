@@ -1,0 +1,13 @@
+name = "Create Fabric Sodium Fix"
+filename = "create-sodium-fix-0.5.1-d-build.1161+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ysHf2zCJ/versions/kpJRpZZ2/create-sodium-fix-0.5.1-d-build.1161%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "8f4c48e5cda35b594fa116ea8b7da0044340899ba003b45c08162f8607fa0663b76cf5d6a8bfdc47c48cc6bf278b7e142ccb2eddf3271afe9d0f79cd579e1afc"
+
+[update]
+[update.modrinth]
+mod-id = "ysHf2zCJ"
+version = "kpJRpZZ2"

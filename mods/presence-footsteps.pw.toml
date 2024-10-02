@@ -1,0 +1,13 @@
+name = "Presence Footsteps"
+filename = "PresenceFootsteps-1.9.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/pOCYcZUF/PresenceFootsteps-1.9.1.jar"
+hash-format = "sha512"
+hash = "e90f182812266c2a4e217f292fc79037612e3eed25dc7894824a3772042c7b0d1908c8df63fb17708ca4de5e86e5972d7a929bc9e4697c6bbfc3e6ea31e50027"
+
+[update]
+[update.modrinth]
+mod-id = "rcTfTZr3"
+version = "pOCYcZUF"

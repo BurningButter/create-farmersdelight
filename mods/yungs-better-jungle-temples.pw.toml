@@ -1,0 +1,13 @@
+name = "YUNG's Better Jungle Temples"
+filename = "YungsBetterJungleTemples-1.20-Fabric-2.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/z9Ve58Ih/versions/KrGANMei/YungsBetterJungleTemples-1.20-Fabric-2.0.4.jar"
+hash-format = "sha512"
+hash = "c17a842d83bddaa240c7f2f662e984a0f90f27cbba40c2d6c94cf33589297e1f609c06c07cdb213f5f76fd2bd2e659cdc12f38d623cc09ffdad80729c4b22542"
+
+[update]
+[update.modrinth]
+mod-id = "z9Ve58Ih"
+version = "KrGANMei"

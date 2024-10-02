@@ -1,0 +1,13 @@
+name = "Create: Copycats+"
+filename = "copycats-1.1.1-mc1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UT2M39wf/versions/8020527j/copycats-1.1.1-mc1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "c775670d9e44075d5196648eb22dd6efa30ee9e4f2c6d0298d68730c8879a04e803c891bccbccd74f3c02db18633c6b1b290bae59174aca50caf648001430c83"
+
+[update]
+[update.modrinth]
+mod-id = "UT2M39wf"
+version = "8020527j"

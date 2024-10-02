@@ -1,0 +1,13 @@
+name = "YUNG's Better End Island"
+filename = "YungsBetterEndIsland-1.20-Fabric-2.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2BwBOmBQ/versions/KMWjIKnN/YungsBetterEndIsland-1.20-Fabric-2.0.5.jar"
+hash-format = "sha512"
+hash = "b5cad844a62a61ac95c98e2dc6818288921224f368c96adbe5804ccd97a6efc856b66dd0a6d1446f9181551843d01196cacad205cd948048a3fbcb700e953bf9"
+
+[update]
+[update.modrinth]
+mod-id = "2BwBOmBQ"
+version = "KMWjIKnN"

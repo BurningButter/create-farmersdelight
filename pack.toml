@@ -1,0 +1,13 @@
+name = "Create: Farming & Delights!"
+author = "BurningButter"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2a5eaa76eee2f3c8e1962c076267adc5dc2ae52b6d38404e76a442baedb49bb9"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.20.1"
